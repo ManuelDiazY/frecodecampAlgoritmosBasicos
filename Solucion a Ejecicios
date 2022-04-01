@@ -1,0 +1,30 @@
+1. Convierte de Grados Celsius a Fahrenheit
+
+function convertToF(celsius) {
+  let fahrenheit=(celsius*9/5)+32;
+  return fahrenheit;
+}
+
+convertToF(30);
+
+2. Invierte una cadena
+
+function reverseString(str) {
+  let arr = Array.from(str);
+  arr= arr.reverse();
+  return arr.join("");
+}
+
+reverseString("hello");
+
+3. Factoriza un número
+
+function factorialize(num) {
+  let factorial=1;
+  for(let i=1;i<=num;i++){
+      factorial=factorial*i;
+  }
+  return factorial;
+}
+
+factorialize(5);
