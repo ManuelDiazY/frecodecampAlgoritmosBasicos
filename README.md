@@ -8,7 +8,7 @@ Lista de ejecrcios Freecodecamo que se encuentran en este portafolio:
 # 3. Factoriza un número
 # 4. Encuentra la palabra más larga en una cadena
 # 5. Devuelve los números mayores en los arreglos
-# 6. Confirma el final (sin uso de .endsWith() ), verficar final de cadena se igual que un target
+# 6. Confirma el final (sin uso de .endsWith() ), verficar final de cadena es igual que un target
 
 
 
